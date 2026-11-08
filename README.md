@@ -4,8 +4,6 @@ Landing page responsiva e acessível para uma clínica odontológica fictícia, 
 
 ![Preview](preview.png)
 
-> **Nota:** abra a página no navegador, tire um print (de preferência da primeira dobra, em tela de computador) e salve como `preview.png` na raiz do projeto para a imagem aparecer aqui.
-
 ## Funcionalidades
 
 - **Cabeçalho fixo** que diminui e ganha sombra ao rolar, com destaque no link da seção visível.
